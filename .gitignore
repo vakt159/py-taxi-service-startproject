@@ -1,3 +1,7 @@
-pyc
+.venv
 .idea
-db.sqlite3
+*.sqlite3
+.github
+.env
+__pycache__/
+*.pyc
